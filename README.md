@@ -1,9 +1,9 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-## Name : EASWAR.J	
-## Roll no: 212221230024
-## Date of experiment : 04-11-22
+## Name : SARVESHKARAN VK
+## Roll no: 212221230089
+## Date of experiment : 06-11-22
   
   
 ## Aim: 
@@ -240,11 +240,10 @@ Figure -09 graph between % of pot(1Kohm) values and ADC
 ### Output screen shots :
 
 
-![image](https://user-images.githubusercontent.com/94154683/200011128-e14e1ed7-c4fd-40ca-9dd1-e3c1b54f4f91.png)
+![1](https://user-images.githubusercontent.com/94828138/200161669-17f50d75-10a3-4955-8430-41ea52ac9386.png)
+![2](https://user-images.githubusercontent.com/94828138/200161689-b3a5a4e0-a5f9-4b73-9174-df9033e00c56.png)
+![3](https://user-images.githubusercontent.com/94828138/200161702-39fbd173-44bf-4d06-91d1-c5a654f87b13.png)
 
-![image](https://user-images.githubusercontent.com/94154683/200011073-8c2602ff-670b-4253-9162-67740d7b928d.png)
-
-![image](https://user-images.githubusercontent.com/94154683/200011324-35e63144-2d1d-4db5-a4f7-11a9a6c7aaff.png)
 
 ## Result :
 Configuring an ADC and the input values are displayed on LCD screen 
